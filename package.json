@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "react-flickity-component",
   "version": "4.0.7",
   "description": "react flickity component",
